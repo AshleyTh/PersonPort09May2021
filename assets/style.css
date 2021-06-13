@@ -1,11 +1,36 @@
-<style type="stylesheet">
-
-header {background-color: aqua; font-family:"Times New Roman", Times, serif ; font-size: large;
+.flexbox-container{
+display: flex;
+justify-content: baseline;
 }
-
-body {background-color: rgb(167, 199, 171);
+.flexbox-item1{
+    background-color: #17cbeb;
+  width: 1000px;
+  margin: 100px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
 }
-
-p { font-family: verdana; font-size:medium ;}
-
-</style>
+.flexbox-item2{
+    background-color: #17cbeb;
+    width: 1000px;
+    margin: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+.flexbox-item3{
+    background-color: #17cbeb;
+    width: 1000px;
+    margin: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+.flexbox-item4{
+    background-color: #17cbeb;
+  width: 1000px;
+  margin: 100px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
